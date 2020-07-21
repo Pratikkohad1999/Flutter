@@ -1,0 +1,17 @@
+1. In today's session we got to know about  variables and its use cases,
+Use of var, return keyword, different datatype used in dart language and 
+Use cases of list and map.
+2. Variables is  used to allocate memory location in computer memory that holds a value for that variable. This value can be changed during the execution of the program. 
+3.A variable without value has null value by default. There are basically int, double, boolean and string  Data Types in Dart.
+4. Var is a keyword that can  hold any type of variable value whether it is string,int or double .
+5.In Dart, there is return keyword allows a function to return value. 
+6.A List is simply an ordered group of objects.Dart represents arrays in the form of List objects.
+7.Each element in the List is given a unique number called the index. The index starts from zero.
+8. List is mutable means you can change their content without changing their identity.EX:- var x = [1,"Hello","Pratik"];
+9. Just like List, Map(dynamic collection) is also a type of collection in which  data is stored in key: value pairs.Use of comma at the end of key-value pair for autoformat of the code. ex:-var details = {"Roll no":1,"Name":"Pratik"}; 
+10.DartPad is an online interpreter to  run and compile the dart code.
+11.When we save the code,the code get auto formated.
+12. Internallinkedhashmap<String,Object> :- A hash-table based implementation of Map.
+13. Runtime.type: checking variable type in Dart.
+
+  

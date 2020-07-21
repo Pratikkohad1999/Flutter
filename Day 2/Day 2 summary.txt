@@ -1,0 +1,20 @@
+1. In today's session we saw the importance of Dart language in flutter frameworks,installation of Dart-SDK,setting its path in Laptop/pc and setting a mobile phone to  developer mode in order to run our first app.
+2.Dart is an open-source language meant for the server as well as the browser.Dart has a Dart Virtual Machine for Dart interpreter purpose.Dart files has ".dart" extension.
+3.The Dart SDK has the libraries and command-line tools that you need to develop Dart web, command-line, and server apps.
+4.Dart has their own compiler and interpreter. We need Dart Interpreter when we run the code on windows.
+5.So we need to change our Mobile phone into Developer's Mode.
+6.When we run the AVD manager (or virtual device) then it consumes nearly around 3 to 4 GB of ram so to avoid that we can launch our application in our mobile phones itself by switching our mobile to developer mode.
+To Set your phone into developer mode there are number of steps which are as follows:
+i.Use USB cable to connect your phone to the PC/Laptop. 
+ii.Go to settings.
+iii.look for About Phone then  for build version. 
+iv.Tap for about 3-7 times.
+v.Then the setting is done for your android app to run on mobile phone.
+vi.We also have to allow USB Debugger.
+6. Main function is the entry point of Dart.It plays a vital role in Dart language.If you have number of files open with different function it will not run until you specify the function present in different files in main function files.
+8.Import is a keyword that helps in loading the module to  the workspace (main.dart) in program. If we do not import the files ,it may cause an error in the main.dart file.
+9.The first basic program includes :-
+runapp() is a function to run the app.
+MaterialApp() function is a function to create the app.
+The screen appears after launching the app is called a widget.
+10.The programs written in other file which we import in main.dart file using import keyword is called modules.
