@@ -1,0 +1,17 @@
+1. In today's session we got to know about Scaffold,Appbar,runApp,events,action,title ,leading,uses case of refactor,setting icons,setting image,setting logo and  some of the functions in Dart such as Test(),Print()and send().
+2.MaterialApps function:-MaterialApp is a widget that introduces a number of widgets ( Navigator , Theme ) that are required to build a Material design app.
+3. Scaffold function: Precreated template created by google that Implements the basic material design visual layout structure.
+4.runapp :-runApp() attaches the given widget to the screen.
+5.AppBar class:-  An app bar consists of a tabbar,toolbar,title,action,leading,bottom and flexible space.
+6.Events : Provides a notification mechanism across independent packages/layers/modules.
+7.Different types of Icons:-Email icons, alert icon,bell icon and so on which are present in flutter document.
+8. IconButton, which is used with actions to show buttons on the app bar.
+9. When we separate a set of code into a self-contained entity, we call this a module.
+10. We create separate module because to make it reusable whenever needed.This separation also makes our code look nice and well in order.
+11.Action :- To display widget in a row after the title widget.
+12. title :- wWidget displayed in the app bar.
+13. leading:- To display Widget before the title.
+14.In Scaffold we learnt to:-Use of App bar,Setting the leading property,Setting the icon, icon button and change the color of the icons and Using the action Property. 
+15 Text function use to print on mobile app and print is use for console/terminal.
+16. Text Align :- Align the text.
+17.TextDirection:-This class  is used to represent directionality of text
