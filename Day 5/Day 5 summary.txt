@@ -1,0 +1,15 @@
+1. In today's session we got to know about widgets,decoration,container,  properties of Scaffold,Appbar,runApp, column function and basic widgets in flutter such as column,container,image,icon  and much more.
+2.Scaffold :- Widget to design canvas and capable of creating widget inside it whereas default scaffold is white.
+3.Scaffold contains almost everything you need to create a functional and responsive apps.
+3.The body is a Text placed in a Center in order to center the text within the Scaffold. 
+4. Inside the container we can use various other things such as color,decoration,child,width, height to make our app attractive.
+5.Decoration : Decoration is used to change the look of the boundary created by container.We can't use decoration and colour together because decoration have there own color property.
+6. Color :- Color is used to change the color.
+7.Width and height :- adjust width and height on the screen (how much area should be covered on the screen according to the given input).
+8.Boxdecoration function and setting the colour , text and image in side the box.If we want to create boxes we can use  layout function instead of Boxdecoration function.
+9.we can create container inside the container as per our requirement.
+10.  To overcome the limitation of container,we used column.In column () we can use multiple Child (children) , column supports the list.
+11. If the requirement is to keep multiple things in an application , so we can use column widget in place of container.
+12.Border Radius:- The border-radius property is used to round the corners of an element
+13.ImageNetwork Function :- Display images from the internet.To work with images from a URL, use the Image.network().
+14.CenterTitle :- Align title at the center of appbar.It is Set to true.
