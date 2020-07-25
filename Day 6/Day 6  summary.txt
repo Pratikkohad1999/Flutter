@@ -1,0 +1,25 @@
+1. In today's session we got to know about concept of hot reload ,enabling hot-reload, scaffold,state (stateless),
+2.Hot reload:- Hot Reload preserves the app-state.Hot-reload feature that allows you to see the reflected change after bug fixes.
+3.Hot reload work on saved source code files into the running DVM. After the task is saved classes with the new function or codes the Flutter framework automatically recognize it and rebuilds the widget tree, allowing you to quickly view the effects of your changes.
+4.Steps to enable hot reloading are as follow :
+i.Launch an app on virtual device or your mobile phones.
+ii. click on run after debugging on run in status bar and then on device .for example: nexus 5x
+iii.In Hot reload as soon as you press Ctrl+s , your app will automatically updated.
+iv.Then select the Enable Hot Reloading option from the popup.
+v. NOTE: In hot-reload,only that part of application gets loaded where  changes has been done instead of loading the whole application.
+3.BuildContext(keyword) - It shows where you are in tree of widgets of your application.It is used to locate a widget in a widget tree.
+4. Widget tree - Widget inside widget forms a tree like structure which is called as a widget tree.
+5.BuildContext  has the capability to maintain everything in one variable and knows the old code so whenever we change the code and do hot reload, the variable compares old and new code, figure out which part is edited/new one, allowing you to quickly view the effects of your changes.Here,build is a function
+6.All the program files that bundle together and each file have its own function in programming world that can do things for you is called as package.It is some times also called as software.
+7.Import is a keyword through which we add functionality of the package in our code.
+8. Pub (Package manager in Dart),it is same as pip for python or gem for ruby.
+9.For installing the package - 
+i. Search for  "pub.dev" 
+ii. "pubspec.yaml" file in the created app, and writ name of package whichever you want in the dependencies section .
+iii Save and restart your vscode you will see its effect,run "flutter pub get" cmd on terminal in vscode or cmd prompt on windows and make changes in your code accordingly to see its effect.
+10.Generally there are two types of stae in flutter they are: stateless and stateful.The Build function is actually a part of a module.Build is a part of statelessWidget module.
+11.Color of status bar cannot be changed through flutter material package. So we use multiple packages/libraries.
+for example:- these code line is used to change the color of status bar in flutter using dart language:-FlutterStatusBarColor.setStatusBarColor(Colors.redAccent)
+12. For implementing toast in our code we need to import this package import 'package:fluttertoast/fluttertoast.dart';.
+
+
