@@ -21,5 +21,6 @@ iii Save and restart your vscode you will see its effect,run "flutter pub get" c
 11.Color of status bar cannot be changed through flutter material package. So we use multiple packages/libraries.
 for example:- these code line is used to change the color of status bar in flutter using dart language:-FlutterStatusBarColor.setStatusBarColor(Colors.redAccent)
 12. For implementing toast in our code we need to import this package import 'package:fluttertoast/fluttertoast.dart';.
+13. Firestore is the database service which provide the Database service  to flutter applications. 
 
 
